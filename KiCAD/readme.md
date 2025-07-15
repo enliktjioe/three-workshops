@@ -14,7 +14,18 @@ https://miro.com/app/board/uXjVJfeq8kw=/
 
 
 
+Getting Started:
+https://docs.kicad.org/6.0/en/getting_started_in_kicad/getting_started_in_kicad.html#basic_concepts_and_workflow
+
+
+
 Example projects:
 
 - https://www.martinhesselmeier.com/saroskop/
 - https://gieskes.nl/
+
+
+
+Other References:
+
+- https://github.com/joanbono/awesome-kicad

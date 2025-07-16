@@ -92,7 +92,6 @@
 			(psnegative no)
 			(psa4output no)
 			(plot_black_and_white yes)
-			(plotinvisibletext no)
 			(sketchpadsonfab no)
 			(plotpadnumbers no)
 			(hidednponfab no)
@@ -15270,7 +15269,7 @@
 			(extension_offset 0.5)
 			(keep_text_aligned yes)
 		)
-		(gr_text "13,95"
+		(gr_text "13.95"
 			(at 105.16 151.975 90)
 			(layer "Dwgs.User")
 			(uuid "6e69d97f-a873-47a2-b56a-7838d2d44762")
@@ -15307,7 +15306,7 @@
 			(extension_offset 0.5)
 			(keep_text_aligned yes)
 		)
-		(gr_text "5,35"
+		(gr_text "5.35"
 			(at 160.875 169.69 0)
 			(layer "Dwgs.User")
 			(uuid "935062a0-e859-4606-895f-d688ab12bd39")
@@ -15343,7 +15342,7 @@
 			(extension_offset 0.5)
 			(keep_text_aligned yes)
 		)
-		(gr_text "5,70"
+		(gr_text "5.70"
 			(at 125.35 169.61 0)
 			(layer "Dwgs.User")
 			(uuid "a45ec66a-5f39-4a19-a4ae-5615a9e04c96")
@@ -15417,7 +15416,7 @@
 			(extension_offset 0.5)
 			(keep_text_aligned yes)
 		)
-		(gr_text "15,45"
+		(gr_text "15.45"
 			(at 168.82 152.725 90)
 			(layer "Dwgs.User")
 			(uuid "2965e5b8-db5e-47e4-ad12-a2868ed54ec5")
@@ -15455,7 +15454,7 @@
 			(extension_offset 0.5)
 			(keep_text_aligned yes)
 		)
-		(gr_text "112,18"
+		(gr_text "112.18"
 			(at 90.4 104.358 90)
 			(layer "Dwgs.User")
 			(uuid "3145c4ba-c635-4bef-996a-826d0ced5eab")

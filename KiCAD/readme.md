@@ -1,5 +1,11 @@
 # KiCAD Notes
 
+## Day 3 - Designing, Simulating and Running Installation with [Processing.org](http://processing.org/)
+
+
+
+
+
 ## Day 2 - KiCAD PCB continuation
 
 Using reference:
@@ -14,6 +20,8 @@ A custom PCB board with a STM32 microcontroller, 7 seg display, a buzzer and man
 15.07.2025
 
 Prof. Ralf Baecker
+
+https://github.com/rlfbckr/workshops/tree/main
 
 Presentation:
 https://docs.google.com/presentation/d/1FQOJmnPphsIvtIlYlx94JYpmJ64v6YoRFoZGHLRAc9c/edit?slide=id.gb1fd486fc7_0_359#slide=id.gb1fd486fc7_0_359
